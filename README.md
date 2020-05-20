@@ -1,6 +1,6 @@
 # Devcamper API
 
-> Backend API for Devcamper application which is a bootcamp directory website
+> Backend API for Devcamper application which is a bootcamp directory website created only for learning purposes
 
 ## Usage
 
@@ -18,7 +18,7 @@ npm install
 # Run in dev mode
 npm run dev
 
-# Run in pro mode
+# Run in prod mode
 npm start
 ```
 
